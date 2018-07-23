@@ -4,4 +4,4 @@ this is the readme
 u may read me 
 or u may not
 for now just one second
-## https://the1second.github.io/1second/
+### https://jay4jyotika.github.io/1second/
